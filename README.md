@@ -1,15 +1,15 @@
-# Weather App
+# 🌦️Weather App
 
-## About
+## 📜About
 The Weather App is a desktop application built using Python and Tkinter that provides real-time weather information for any city in the world. It fetches weather data from the OpenWeatherMap API and displays it in a user-friendly interface.
 
-## Features
+## ✨Features
 - **Real-time Weather Data**: Get current weather conditions including temperature, wind speed, humidity, description, and pressure.
 - **City Search**: Easily search for weather information by entering the city name.
 - **Local Time Display**: See the local time of the searched city.
 - **User-Friendly Interface**: Simple and clean design with an intuitive layout.
 
-## Technologies Used
+## 🛠️Technologies Used
 - **Python**: Core programming language.
 - **Tkinter**: For building the graphical user interface.
 - **geopy**: For geocoding the city names.
