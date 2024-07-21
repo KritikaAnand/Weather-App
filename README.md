@@ -17,7 +17,7 @@ The Weather App is a desktop application built using Python and Tkinter that pro
 - **requests**: To fetch data from the OpenWeatherMap API.
 - **pytz**: For handling timezone conversion.
 
-## Installation
+## 📥Installation
 To run this application on your local machine, follow these steps:
 
 1. **Clone the repository**:
